@@ -15,6 +15,8 @@ I am Hasaan Khattak from Pakistan and I am a Software engineer I really love to 
 - 🔭 I’m currently working on My own company 
 - 🌱 I’m currently learning Different Languages  
 - 👯 I’m looking to collaborate on Machine learning projects 
+-📫 How to reach me: Hasaankhattak159@gmail.com
+-⚡ Fun fact: travelling, footbal
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Hasaankhattak45)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/hasaan-khattak-907a9b173//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCSX6TVc_E9Dk7MTu6aeQNyw)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://hasaankhattak.blogspot.com/)  
