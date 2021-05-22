@@ -1,4 +1,4 @@
-![Software developer and Machine learning engineer](https://media-exp1.licdn.com/dms/image/C5616AQF7Hx2RP1m4SA/profile-displaybackgroundimage-shrink_350_1400/0/1608806550432?e=1614211200&v=beta&t=yWr_7r3CnIaWvbdw2EfWUp6CqfnU_lBsQD3T9RRCuDs)
+![Software developer and Machine learning engineer]https://media-exp1.licdn.com/dms/image/C5616AQF7Hx2RP1m4SA/profile-displaybackgroundimage-shrink_200_800/0/1608806550432?e=1626912000&v=beta&t=VviijKWbuG-jX7Zm1VYRBw3YGmKpe9uK_zha_SwEHmw
 
 
 ### Hi there 👋, Hasaan khattak
