@@ -1,8 +1,8 @@
-### Hi there 👋, Hi there 👋, Hasaankhattak
+### Hi there 👋, Hi there 👋, HasaanMaqsood
 ####  Software developer and Machine learning engineer
 ![ Software developer and Machine learning engineer](https://media-exp1.licdn.com/dms/image/C5616AQF7Hx2RP1m4SA/profile-displaybackgroundimage-shrink_200_800/0/1608806550432?e=1626912000&v=beta&t=VviijKWbuG-jX7Zm1VYRBw3YGmKpe9uK_zha_SwEHmw)
 
-I am Hasaan Khattak from Pakistan and I am a Software engineer I really love to learn a new language and new interesting things and currently working on Machine learning and related all the stuff and have a lot of fun when facing many many errors and too much happy when to solve those error from the projects as well as from the life of bad sides and to improve my self and feel good to help other.
+I am Hasaan from Pakistan, Love to work in team.
 
 Skills: Python | Machine Learning | Data visualization | Web development 
 
