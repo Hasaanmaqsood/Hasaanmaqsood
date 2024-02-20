@@ -6,10 +6,10 @@ I am Hasaan from Pakistan, Love to work in team.
 
 Skills: Python | Machine Learning | Data visualization | Web development 
 
-- 🔭 I’m currently working on I’m currently working on Artificial intelligences & Machine learning   
-- 🌱 I’m currently learning I’m currently learning Data visualization    
-- 👯 I’m looking to collaborate on I’m looking to collaborate on Machine learning projects   
-- 🤔 I’m looking for help with helping someone is amazing... 
+- 🔭 I’m currently studying at skoltech Master in Data science
+- 🌱 I’m currently learning about Machine learning and deep leaning    
+- 👯 I’m looking to collaborate on some interesting projects   
+- 🤔 I’m looking for motivated and interesting people to work with ... 
 - 📫 How to reach me: How to reach me: Hasaankhattak159@gmail.com  
 - ⚡ Fun fact:  Fun fact: travelling , Football , Learning new languages   
 
